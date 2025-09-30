@@ -20,10 +20,11 @@ I’m always open to discussing new projects, creative ideas, or opportunities t
 ---
 
 ### 🌐 Find me on
-[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/hasini-e-19603b319/)  
-[![CodeChef](https://cdn.iconscout.com/icon/free/png-256/codechef-3521512-2944986.png)](https://www.codechef.com/users/your_codechef_id)  
-[![LeetCode](https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png)](https://leetcode.com/your_leetcode_id)  
-[![HackerRank](https://cdn.iconscout.com/icon/free/png-256/hackerrank-3521478-2944925.png)](https://www.hackerrank.com/your_hackerrank_id)  
+[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/hasini-e-19603b319/)
+[<img src="reduced_social_icons.png" alt="CodeChef" width="48"/>](https://www.codechef.com/users/your_codechef_id)
+[<img src="reduced_social_icons.png" alt="LeetCode" width="48"/>](https://leetcode.com/your_leetcode_id)
+[<img src="reduced_social_icons.png" alt="HackerRank" width="48"/>](https://www.hackerrank.com/your_hackerrank_id)
+
 
 ---
 
