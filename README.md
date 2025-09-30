@@ -20,10 +20,20 @@ I’m always open to discussing new projects, creative ideas, or opportunities t
 ---
 
 ### 🌐 Find me on
-[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/hasini-e-19603b319/)
-[<img src="https://img.icons8.com/?size=100&id=vAtJFm3hwtQw&format=png&color=000000" alt="CodeChef" width="48"/>](https://www.codechef.com/users/your_codechef_id)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="48"/>](https://leetcode.com/your_leetcode_id)
-[<img src="https://img.icons8.com/?size=100&id=OUPsEPLKIebZ&format=png&color=000000" alt="HackerRank" width="48"/>](https://www.hackerrank.com/your_hackerrank_id)
+<p align="left">
+  <a href="https://www.linkedin.com/in/hasini-e-19603b319/">
+    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png" alt="LinkedIn" width="40" style="background-color:#87CEFA; padding:8px; border-radius:8px;"/>
+  </a>
+  <a href="https://www.codechef.com/users/your_codechef_id">
+    <img src="https://img.icons8.com/?id=vAtJFm3hwtQw&format=png&color=000000" alt="CodeChef" width="40" style="background-color:#87CEFA; padding:8px; border-radius:8px;"/>
+  </a>
+  <a href="https://leetcode.com/your_leetcode_id">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" style="background-color:#87CEFA; padding:8px; border-radius:8px;"/>
+  </a>
+  <a href="https://www.hackerrank.com/your_hackerrank_id">
+    <img src="https://img.icons8.com/?id=OUPsEPLKIebZ&format=png&color=000000" alt="HackerRank" width="40" style="background-color:#87CEFA; padding:8px; border-radius:8px;"/>
+  </a>
+</p>
 
 
 ---
