@@ -6,9 +6,9 @@
 - 📫 Feel free to reach out to me at: hasini1530@gmail.com
 
 ### Skills & Technologies
-- *Languages:* Dart, JavaScript, HTML, CSS
-- *Frameworks & Libraries:* Flutter, React, Node.js
-- *Tools & Platforms:* Git, GitHub, VS Code, Firebase
+- *Languages:* Java, JavaScript, HTML, CSS, Python
+- *Frameworks & Libraries:* React, Node.js
+- *Tools & Platforms:* Git, GitHub, VS Code, Firebase, Supabase, MongoDB
 
 ### Let's Collaborate!
 I’m always open to discussing new projects, creative ideas, or opportunities to be part of your vision. If you have an interesting project or just want to chat about tech, feel free to reach out.
