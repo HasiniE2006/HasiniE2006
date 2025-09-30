@@ -1,6 +1,4 @@
-<div style="background-color:#E6F7FF; padding:20px; border-radius:12px;">
-
-# Hi, I'm Hasini E 👋
+  # Hi, I'm Hasini E 👋
 
 - 👀 I have a keen interest in application development and web development.  
 - 🌱 I'm currently delving into Data Structures and Algorithms  
@@ -22,25 +20,18 @@ I’m always open to discussing new projects, creative ideas, or opportunities t
 ---
 
 ### 🌐 Find me on
-<p align="left">
-  <a href="https://www.linkedin.com/in/hasini-e-19603b319/">
-    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png" alt="LinkedIn" width="40"/>
-  </a>
-  <a href="https://www.codechef.com/users/your_codechef_id">
-    <img src="https://img.icons8.com/?id=vAtJFm3hwtQw&format=png&color=000000" alt="CodeChef" width="40"/>
-  </a>
-  <a href="https://leetcode.com/your_leetcode_id">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/your_hackerrank_id">
-    <img src="https://img.icons8.com/?id=OUPsEPLKIebZ&format=png&color=000000" alt="HackerRank" width="40"/>
-  </a>
-</p>
+[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/hasini-e-19603b319/)
+[<img src="https://img.icons8.com/?id=vAtJFm3hwtQw&format=png&color=000000" alt="CodeChef" width="40"/>](https://www.codechef.com/users/your_codechef_id)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40"/>](https://leetcode.com/your_leetcode_id)
+[<img src="https://img.icons8.com/?id=OUPsEPLKIebZ&format=png&color=000000" alt="HackerRank" width="40"/>](https://www.hackerrank.com/your_hackerrank_id)
+
+
 
 ---
 
 ### ⚒️ Languages and Tools
 <div align="left">
+  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -50,10 +41,14 @@ I’m always open to discussing new projects, creative ideas, or opportunities t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  
+  <!-- Frameworks -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+  
+  <!-- Tools & Platforms -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
   <img width="12" />
@@ -66,13 +61,4 @@ I’m always open to discussing new projects, creative ideas, or opportunities t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="30" alt="supabase logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-</div>
-
----
-
-### 📊 GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HasiniE2006&show_icons=true&locale=en&layout=compact" alt="HasiniE2006" /></p>  
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HasiniE2006&show_icons=true&locale=en" alt="HasiniE2006" /></p>  
-
 </div>
