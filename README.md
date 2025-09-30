@@ -1,4 +1,5 @@
-# Hi, I'm Hasini E 👋
+<div style="background-color:#E6F7FF; padding:20px; border-radius:12px;">
+  # Hi, I'm Hasini E 👋
 
 - 👀 I have a keen interest in application development and web development.  
 - 🌱 I'm currently delving into Data Structures and Algorithms  
@@ -61,4 +62,5 @@ I’m always open to discussing new projects, creative ideas, or opportunities t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="30" alt="supabase logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
+</div>
 </div>
