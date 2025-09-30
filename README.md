@@ -62,12 +62,3 @@ I’m always open to discussing new projects, creative ideas, or opportunities t
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
 </div>
-
----
-
-### 📊 GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HasiniE2006&show_icons=true&locale=en&layout=compact" alt="HasiniE2006" /></p>  
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HasiniE2006&show_icons=true&locale=en" alt="HasiniE2006" /></p>  
-
----
