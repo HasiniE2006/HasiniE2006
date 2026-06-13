@@ -1,64 +1,83 @@
-  # Hi, I'm Hasini E 👋
+<h1 align="center">Hi, I'm E Hasini 👋</h1>
 
-- 👀 I have a keen interest in application development and web development.  
-- 🌱 I'm currently delving into Data Structures and Algorithms  
-- 💻 I'm eager to collaborate on innovative and impactful projects in the application and web development space.  
-- 📫 Feel free to reach out to me at: **hasini1530@gmail.com**
+<p align="center">
+  <strong>Application Developer • Web Developer • DSA Enthusiast • Freelancer</strong>
+</p>
 
----
+<p align="center">
+  Passionate about building scalable applications, creating intuitive user experiences,
+  and continuously improving problem-solving skills through Data Structures and Algorithms.
+</p>
 
-### Skills & Technologies
-- *Languages:* Java, JavaScript, HTML, CSS, Python  
-- *Frameworks & Libraries:* React, Node.js  
-- *Tools & Platforms:* Git, GitHub, VS Code, Firebase, Supabase, MongoDB  
-
----
-
-### Let's Collaborate!
-I’m always open to discussing new projects, creative ideas, or opportunities to be part of your vision. If you have an interesting project or just want to chat about tech, feel free to reach out.  
-
----
-
-### 🌐 Find me on
-[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/hasini-e-19603b319/)
-[<img src="https://img.icons8.com/?id=vAtJFm3hwtQw&format=png&color=000000" alt="CodeChef" width="40"/>](https://www.codechef.com/users/ehasini)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40"/>](https://leetcode.com/u/E_Hasini/)
-[<img src="https://img.icons8.com/?id=OUPsEPLKIebZ&format=png&color=000000" alt="HackerRank" width="40"/>](https://www.hackerrank.com/profile/23HR1A3016)
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/hasini-e-19603b319/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/E_Hasini/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/ehasini">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/23HR1A3016">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### ⚒️ Languages and Tools
-<div align="left">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  
-  <!-- Frameworks -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  
-  <!-- Tools & Platforms -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="30" alt="supabase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-</div>
+## About Me
+
+- 🌱 Currently learning **Data Structures & Algorithms**
+- 💻 Interested in **Application Development** and **Web Development**
+- 🚀 Building projects with modern web technologies
+- 🤝 Open to collaboration on innovative and impactful projects
+- 📫 Reach me at **hasini1530@gmail.com**
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,flutter,dart,html,react,nodejs,mongodb,firebase,supabase,git,github,vscode,&perline=7" />
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HasiniE2006&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasiniE2006&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasiniE2006&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/0366d6/HasiniE2006" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+## Current Focus
+
+```text
+✓ Data Structures & Algorithms
+✓ Full-Stack Development
+✓ React & Node.js
+✓ MongoDB & Supabase
+✓ Real-World Project Development
+```
+
+---
+
+<p align="center">
+  <i>Building, learning, and improving one project at a time.</i>
+</p>
